@@ -18,7 +18,7 @@ You may also see any lint errors in the console.
 ### Project-2
 
 Concept of Hooks 👌 \
-Use useState & useReducer & useEffect Hooks of ReactJS. 🙌\
+Use useState & useReducer & useEffect Hooks of ReactJS. 🙌
 
 <p align="center">
   <img src="[http://some_place.com/image.png](https://user-images.githubusercontent.com/30976812/172653824-8bc00342-7a2d-4a26-87a3-ac0f200d6cfa.PNG)" />
