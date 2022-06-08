@@ -15,8 +15,8 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
-### Project-1
+### Project-2
 
-iFood Apps For Users Using ReactJS. ✌
-Concept of JavaScript & Arrays Functions. 👌
-Use useState Hooks of ReactJS. 🙌
+Concept of Hooks 👌 \
+Use useState & useReducer & useEffect Hooks of ReactJS. 🙌\
+
