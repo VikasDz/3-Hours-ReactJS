@@ -1,10 +1,14 @@
 import React from "react";
-import IFood from "./components/Project-1/IFood";
+import UseEffect from "./components/Project-2/UseEffect";
+import UseReducer from "./components/Project-2/UseReducer";
+import UseStat from "./components/Project-2/UseStat"
 
 function App() {
   return (
    <>
-   <IFood/>
+   <UseStat/>
+   <UseEffect/>
+   <UseReducer/>
    </>
   );
 }
