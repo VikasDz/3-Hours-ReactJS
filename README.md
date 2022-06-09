@@ -15,8 +15,9 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
-### Project-2
+### Project-3
 
 Concept of Hooks 👌 \
 Use useState & useReducer & useEffect Hooks of ReactJS. 🙌\
+Many More Things ✔
 
